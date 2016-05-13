@@ -1,0 +1,33 @@
+body{
+  background-color: black;
+  border-color: White;
+  border-style: solid;
+  border-radius: 20px;
+  margin: 20px 40px 20px 40px;
+  padding: 10px;
+}
+h1 {
+  font-family: monospace;
+  color: white;
+}
+.quoteContainer {
+  border-style:solid;
+  border-color: white;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  height: auto;
+  padding: 10px;
+  border-radius: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.quote {
+  font-family: Monospace;
+  color: white;
+  font-size: 20px;
+}
+.author {
+  font-family: Monospace;
+  color: #fff; //for the lols
+}
